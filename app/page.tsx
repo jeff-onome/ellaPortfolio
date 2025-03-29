@@ -1,4 +1,3 @@
-import Design from "@/components/Design";
 import Experience from "@/components/Experience";
 import FirstPage from "@/components/FirstPage";
 import Navbar from "@/components/Navbar";
